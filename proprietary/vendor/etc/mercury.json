@@ -1,0 +1,66 @@
+{
+  "LRF": [
+    {
+      "name": "AP",
+      "coef": 0.1692,
+      "scale": 78.6871,
+      "mean": 293.1286
+    },
+    {
+      "name": "BAT",
+      "coef": 0.5161,
+      "scale": 29.173,
+      "mean": 286.7885
+    },
+    {
+      "name": "CHG",
+      "coef": 0.3642,
+      "scale": 62.9905,
+      "mean": 310.8599
+    },
+    {
+      "name": "BLK",
+      "coef": -0.0239,
+      "scale": 23.814,
+      "mean": 316.8378
+    },
+    {
+      "name": "Y",
+      "scale": 4.7237,
+      "mean": 30.7942,
+      "intercept": 0.0
+    }
+  ],
+  "LRB": [
+    {
+      "name": "AP",
+      "coef": 0.3351,
+      "scale": 72.65,
+      "mean": 320.3299
+    },
+    {
+      "name": "BAT",
+      "coef": 0.0444,
+      "scale": 24.941,
+      "mean": 302.8676
+    },
+    {
+      "name": "CHG",
+      "coef": 0.4485,
+      "scale": 57.3205,
+      "mean": 337.0616
+    },
+    {
+      "name": "BLK",
+      "coef": 0.1545,
+      "scale": 20.5562,
+      "mean": 331.1073
+    },
+    {
+      "name": "Y",
+      "scale": 3.0365,
+      "mean": 30.9749,
+      "intercept": -0.0
+    }
+  ]
+}
